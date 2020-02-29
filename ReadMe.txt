@@ -1,3 +1,13 @@
+.NET WindowsForm program that Extends the String class by adding encrypt() and Decrypt functions.
+
+The encrypt() function encrypts input string using AES256 Encryption.
+The decrypt() function decrypts input string using AES256 Encryption.
+
+Restrictions:
+The user must provide an input of size > 0.
+The output is read only.
+
+
 To run the program:
 
 1) Open AEScrypto.sln in Visual Studio(I used VS 2019).
