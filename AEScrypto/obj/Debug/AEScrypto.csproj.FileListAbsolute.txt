@@ -1,0 +1,9 @@
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\bin\Debug\AEScrypto.exe.config
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\bin\Debug\AEScrypto.exe
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\bin\Debug\AEScrypto.pdb
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\obj\Debug\AEScrypto.Form1.resources
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\obj\Debug\AEScrypto.Properties.Resources.resources
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\obj\Debug\AEScrypto.csproj.GenerateResource.cache
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\obj\Debug\AEScrypto.exe
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\obj\Debug\AEScrypto.pdb
+C:\Users\omarh\Desktop\AEScrypto\AEScrypto\obj\Debug\AEScrypto.csprojAssemblyReference.cache
