@@ -10,9 +10,6 @@ namespace AEScrypto
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
@@ -29,8 +26,8 @@ namespace AEScrypto
 
         static AES()
         {
-            CSP.KeySize = 256; // 128 bytes
-            CSP.BlockSize = 128; // 256 bytes
+            CSP.KeySize = 256; // 256 bits
+            CSP.BlockSize = 128; // 128 bits
             CSP.GenerateIV(); // generating random IV
             CSP.GenerateKey(); // generating random key
             CSP.Mode = CipherMode.CBC;
